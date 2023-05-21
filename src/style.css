@@ -1,0 +1,20 @@
+nav{
+  display:flex;
+  justify-content: space-around;
+}
+li{
+list-style: none;
+cursor: pointer;
+}
+Button{
+  display: block;
+}
+.detail{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.taskDiv{
+  display: flex
+
+}
